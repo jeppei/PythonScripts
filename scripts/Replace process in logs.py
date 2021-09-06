@@ -1,0 +1,1 @@
+editor.rereplace(r"\[([0-9][0-9]? )\]", r"[PP]")
